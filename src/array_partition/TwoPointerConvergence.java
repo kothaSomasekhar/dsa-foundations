@@ -1,4 +1,4 @@
-package array_convergence;
+package array_partition;
 public class TwoPointerConvergence {
 
     public static int findMaximumVolume(int[] heights) {
